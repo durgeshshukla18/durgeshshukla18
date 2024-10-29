@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **UI/UX, Frontend, Data Analytics, Programming.**
 
-- 📫 How to reach me **durgeshshukla2787@gmail.com**
+- 📫 How to reach me **durgeshshukla278@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
