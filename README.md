@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Shukla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshshukla18&label=Profile%20views&color=f19009&style=flat-square" alt="durgeshshukla18" /> </p>
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2afPbhOUQGJvgkO2j3tE_5&ust=1730433430195000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjX_Zzdt4kDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2afPbhOUQGJvgkO2j3tE_5&ust=1730433430195000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjX_Zzdt4kDFQAAAAAdAAAAABAE)">
 
 - 🌱 I’m currently learning **Development, Data Analytics, Advance Java, Basic ML.**
 
