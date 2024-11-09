@@ -25,6 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshshukla18&show_icons=true&theme=radical&title_color=ffffff&text_color=fefbfb&hide_border=true&locale=en" alt="durgeshshukla18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshshukla18&theme=dark" alt="durgeshshukla18" /></p>
+	
+ <summary><b>GSSOC(24) Badge 🪶(Postman Challenge)</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</a>
+</div>
 
 <!---
 durgeshshukla18/durgeshshukla18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
